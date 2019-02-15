@@ -1,0 +1,44 @@
+{
+  "basic":{
+    "image":"images/prf.jpeg",
+    "name":"Jaswanthi",
+    "email":"jaswanthi@gmail.com",
+    "number":"+91-9876543210",
+    "Address":"pragati engineering college,surampalem"
+  },
+  "career":{
+    "info":" To become a software engineer."
+  },
+  "education":[
+    {
+      "institute":"Pragati",
+      "degree":"B-tech",
+      "passout":"2021"
+    },
+    {
+     "institute":"Sri Chaitanya",
+     "degree":"Inter",
+     "passout":"2017"
+    },
+    {
+
+     "institute":"Narayana",
+     "degree":"SSC",
+     "passout":"2015"
+    }
+  ],
+  "technical":[
+    {
+    "title":"Programming languages:",
+    "data":["C,C++,Python,java"]
+  },
+  {
+    "title":"Data Bases:",
+    "data":["oracle,mysql,tinydb"]
+  },
+  {
+    "title":"Operating Systems:",
+    "data":["windows,unix,linux"]
+  }
+]
+}
